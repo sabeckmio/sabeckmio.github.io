@@ -71,7 +71,7 @@ theme_mode: # [light | dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/hi.jpg"  # 로컬 이미지 경로 예시
+avatar: "/assets/img/hi.jpg"  # 로컬 이미지 경로 예시
 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
