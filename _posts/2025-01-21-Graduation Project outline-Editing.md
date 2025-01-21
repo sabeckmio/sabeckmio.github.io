@@ -1,6 +1,6 @@
 ---
 title: Graduation Project-Outline
-author: MioMio
+author: mio
 date: 2025-1-21 00:11:00 +0800
 categories: [Blogging, Tutorial]
 tags: [project, Unity, VR]
