@@ -28,7 +28,7 @@ Our idea here was to create a space filled with digital art.
 But, we dropped this concept too, mainly because of space limitations.
 However, the "something with art" part of this idea inspired what eventually became our final concept!
 
-#VR
+# VR
 Finally, we decided to make our project using VR.
 VR was the best option for us since all we need is just the VR device.
 Except for some limitations of VR — such as the fact that only one person at a time can experience it with a single device, as well as the weight of the headset and the potential for dizziness — we still chose it.
