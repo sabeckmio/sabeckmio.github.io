@@ -17,7 +17,10 @@ To briefly introduce the ideas we had:
 
 ### 1. AR
 The first one teammate gave was treasure hunt from the road.
-for example, for the one who does not know AR,let me give the example photo![image](https://lh4.googleusercontent.com/proxy/eJCSP139wy1AsTubqH5xUOqJuV0sKKFV6O9O8vcb3HlZmgm-6cpXg9bT6X_DpAtVWsvJ16aSO3CGBDVyrFPhwX2BLgQwXA)
+for example, for the one who does not know AR, let me give the example photo.  
+<br>
+![image](https://lh4.googleusercontent.com/proxy/eJCSP139wy1AsTubqH5xUOqJuV0sKKFV6O9O8vcb3HlZmgm-6cpXg9bT6X_DpAtVWsvJ16aSO3CGBDVyrFPhwX2BLgQwXA)
+
 It looks like this: a new digital world appears on the phone, layered over the real world.
 However, we decided to give up this idea because it’s hard to define clear categories for the hunt.
 ### 2. XR
